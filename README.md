@@ -2,9 +2,12 @@ This game is developed as the project of Object-Oriented Software Development at
 
 The Bagel library, and everything in the res folders are to be credited to the teaching team of this subject.
 
+<u> Multiple Levels </u>
 
 ![image](https://user-images.githubusercontent.com/99101410/173263332-f4a502a1-6ece-4449-94cf-cf22418d0193.png)
 
+
+<u> Attack Functions </u>
 ![image](https://user-images.githubusercontent.com/99101410/173263412-3da4cb17-3a6b-414f-a11f-02806ed99c8d.png)
 
 ![image](https://user-images.githubusercontent.com/99101410/173263468-810be3d6-9b9e-44cc-ab6e-5a917b51c2f5.png)

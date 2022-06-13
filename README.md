@@ -1,8 +1,8 @@
-## This game is developed as the project of Object-Oriented Software Development at The University of Melbourne.
+### This game is developed as the project of Object-Oriented Software Development at The University of Melbourne.
 
-## The Bagel library, and everything in the res folders are to be credited to the teaching team of this subject.
+### The Bagel library, and everything in the res folders are to be credited to the teaching team of this subject.
 
-###### Multiple Levels
+#### Multiple Levels
 
 ![image](https://user-images.githubusercontent.com/99101410/173263332-f4a502a1-6ece-4449-94cf-cf22418d0193.png)
 

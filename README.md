@@ -7,7 +7,7 @@
 ![image](https://user-images.githubusercontent.com/99101410/173263332-f4a502a1-6ece-4449-94cf-cf22418d0193.png)
 
 
-###### Attack Functions
+##### Attack Functions
 ![image](https://user-images.githubusercontent.com/99101410/173263412-3da4cb17-3a6b-414f-a11f-02806ed99c8d.png)
 
 
